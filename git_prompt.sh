@@ -7,7 +7,7 @@
 #
 # USAGE:
 #   Add this into your bashrc or similar file and then
-#   restart bash.
+#   restart bash. 
 #
 #
 # AUTHOR:
